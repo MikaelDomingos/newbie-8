@@ -1,0 +1,32 @@
+@media screen and (max-width:510px) {
+   
+   
+   
+   
+    button{
+        padding: 15px 62px 15px 62px;
+    }
+    .gap{
+        display: flex;
+        gap: 20px;
+     }
+    
+}
+
+@media screen and (max-width:380px) {
+   
+   
+   
+   
+    button{
+        padding: 15px 42px 15px 42px;
+    }
+    .gap{
+        display: flex;
+        gap: 10px;
+     }
+    .price{
+        padding: 10px;
+    }
+    
+}
